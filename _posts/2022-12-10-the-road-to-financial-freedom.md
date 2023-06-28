@@ -6,7 +6,8 @@ categories: [полезные навыки]
 tags: [деньги]
 pin: true
 image:
-  path: The-Road-to-Financial-Freedom.jpg        
+  path: The-Road-to-Financial-Freedom.jpg
+  lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
   width: 1080
   height: 540
 ---
