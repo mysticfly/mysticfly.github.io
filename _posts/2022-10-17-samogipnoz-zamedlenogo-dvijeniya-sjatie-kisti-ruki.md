@@ -6,7 +6,8 @@ categories: [практики]
 tags: [самогипноз]
 pin: false
 image:
-  path: sjatie_kulaka.png        
+  path: sjatie_kulaka.png
+  lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
   width: 1488
   height: 529
 ---
