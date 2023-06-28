@@ -1,0 +1,27 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+Denis:
+  name: "Денис"
+  twitter: Tarot_Pro
+  url: https://github.com/mysticfly/
+
+Tarthang Tulku:
+  name: "Тартанг Тулку Ринпоче"
+  twitter: 
+  url: 
+  
+mystic:
+  name: "Разместил ♦ Mystic Fly"
+  twitter: Tarot_Pro
+  url: https://github.com/mysticfly/
+  
+mystica:
+  name: "Mystic Fly"
+  twitter: Tarot_Pro
+  url: https://github.com/mysticfly/
