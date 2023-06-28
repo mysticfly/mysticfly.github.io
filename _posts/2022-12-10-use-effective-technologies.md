@@ -6,7 +6,8 @@ categories: [главная запись!]
 tags: [осознание]
 pin: true
 image:
-  path: use-effective-technologies.jpg        
+  path: use-effective-technologies.jpg
+  lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
   width: 1080
   height: 540
 ---
