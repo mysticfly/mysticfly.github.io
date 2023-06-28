@@ -6,7 +6,8 @@ categories: [практики]
 tags: [осознание]
 pin: false
 image:
-  path: black_room_practice.jpg        
+  path: black_room_practice.jpg
+  lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
   width: 800
   height: 500
 ---
