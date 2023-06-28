@@ -12,7 +12,7 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 
 @media (prefers-color-scheme: dark) {
   #core-wrapper .post-content p {
-    font-weight: 300;
+    font-weight: 400;
   }
 }
 
@@ -29,7 +29,7 @@ body {
 }
 
 .post-content {
-    font-size: 0.9rem;
+    // font-size: 0.9rem;
     // font-weight: 300;
     line-height: 1.5;
     margin-top: 2rem;
