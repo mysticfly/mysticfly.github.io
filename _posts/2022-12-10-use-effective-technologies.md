@@ -8,8 +8,6 @@ pin: true
 image:
   path: use-effective-technologies.jpg
   lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
-  width: 1080
-  height: 540
 ---
 
 Эта программа и есть то лекарство, которое вы так долго искали. Она исцеляет от бедности и психологических проблем. И я уже вылечил от нее тысячи своих учеников. Пришел ваш черед.
