@@ -29,7 +29,7 @@ body {
 }
 
 .post-content {
-    font-size: 0.9rem;
+    font-size: 0.95rem;
     // font-weight: 300;
     line-height: 1.5;
     margin-top: 2rem;
@@ -63,9 +63,9 @@ h5 {
   font-size: 1.1rem;
 }
 
-#post-list .card-body h1 a {
-    font-size: 0.9rem;
-}
+// #post-list .card-body h1 a {
+//     font-size: 0.9rem;
+// }
 
 blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .prompt-danger::before {
     display: none;
