@@ -71,6 +71,10 @@ blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .p
     display: none;
 }
 
+#search-results a, h5, h4, h3, h2, h1 {
+    font-family: 'Ubuntu', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+}
+
 blockquote[class^=prompt-] {
     padding: 1rem 1rem 1rem 1.1rem;
 }
