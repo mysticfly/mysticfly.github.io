@@ -63,8 +63,8 @@ h5 {
   font-size: 1.1rem;
 }
 
-#post-list h1 {
-    font-size: 1.0rem;
+#post-list > a> div > div.card-body> h1 {
+    font-size: 0.9rem;
 }
 
 blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .prompt-danger::before {
