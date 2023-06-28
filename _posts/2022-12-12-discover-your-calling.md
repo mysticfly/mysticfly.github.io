@@ -6,7 +6,8 @@ categories: [осознание]
 tags: [деньги]
 pin: false
 image:
-  path: discover-your-calling.jpg        
+  path: discover-your-calling.jpg
+  lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
   width: 1080
   height: 565
 ---
