@@ -63,9 +63,9 @@ h5 {
   font-size: 1.1rem;
 }
 
-// #post-list .card-body h1 a {
-//     font-size: 0.9rem;
-// }
+h1 .card-title {
+   font-size: 0.9rem;
+}
 
 blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .prompt-danger::before {
     display: none;
