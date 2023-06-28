@@ -8,8 +8,6 @@ pin: false
 image:
   path: sjatie_kulaka.png
   lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
-  width: 1488
-  height: 529
 ---
 
 Гипноз можно использовать и для работы с собой. Есть множество древних и достаточно новых трансовых техник: медитации, молитвы, аутотренинг. Здесь я вам предложу еще один вариант: самогипноз.
