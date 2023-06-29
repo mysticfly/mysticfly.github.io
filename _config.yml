@@ -96,7 +96,7 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: 'mysticfly/giscus' # <gh-username>/<repo>
+    repo: mysticfly/giscus # <gh-username>/<repo>
     repo_id: 'R_kgDOJ1lGqQ'
     category: 'General'
     category_id: 'DIC_kwDOJ1lGqc4CXjd6'
