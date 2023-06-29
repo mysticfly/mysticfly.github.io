@@ -96,10 +96,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: mysticfly/giscus # <gh-username>/<repo>
-    repo_id: R_kgDOJ1lGqQ
+    repo: mysticfly/mysticfly.github.io # <gh-username>/<repo>
+    repo_id: R_kgDOJ1A0nQ
     category: General
-    category_id: DIC_kwDOJ1lGqc4CXjd6
+    category_id: DIC_kwDOJ1A0nc4CXjji
     mapping: # optional, default to 'pathname'
     input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
