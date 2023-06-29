@@ -98,10 +98,10 @@ comments:
   giscus:
     repo: mysticfly/giscus # <gh-username>/<repo>
     repo_id: 'R_kgDOJ1lGqQ'
-    category: 'Announcements'
-    category_id: 'DIC_kwDOJ1lGqc4CXjd5'
-    mapping: 'pathname' # optional, default to 'pathname'
-    input_position: 'bottom' # optional, default to 'bottom'
+    category: 'General'
+    category_id: 'DIC_kwDOJ1lGqc4CXjd6'
+    mapping: # optional, default to 'pathname'
+    input_position: # optional, default to 'bottom'
     lang: # optional, default to the value of `site.lang`
     reactions_enabled: # optional, default to the value of `1`
 
