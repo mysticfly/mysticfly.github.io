@@ -4,22 +4,6 @@
 @import 'main';
 
 /* append your custom style below */
-/*
-  If the number of TAB files has changed, the following variable is required.
-  And it must be defined before `@import`.
-*/
-$tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
-
-@import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
-
-// @media (prefers-color-scheme: dark) {
-//   #core-wrapper .post-content p {
-//     font-weight: 400;
-//   }
-// }
-
-/* append your custom style below */
 
 /*
 #search-results a, #search-hints .post-tag, a {
