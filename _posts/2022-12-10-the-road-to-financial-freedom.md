@@ -58,3 +58,5 @@ image:
 *по вопросам писать в telegram [@TAROT_PRO](https://t.me/TAROT_PRO)*
 
 *или на почту [animasanator@gmail.com](mailto:animasanator@gmail.com)*
+
+{: file="https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/use-effective-technologies.jpg" }
