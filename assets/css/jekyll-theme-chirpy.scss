@@ -24,6 +24,15 @@ body {
     word-wrap: break-word;
 }
 
+.content ol {
+    font-size: 0.96rem;
+    // font-weight: 300;
+    line-height: 1.5;
+    margin-top: 2rem;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
 #access-lastmod {
   li {
     height: 1.5rem;
