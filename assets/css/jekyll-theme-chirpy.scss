@@ -15,16 +15,7 @@ body {
   font-family: 'Ubuntu', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
 
-.content p, ol, li {
-    font-size: 0.96rem;
-    // font-weight: 300;
-    line-height: 1.5;
-    margin-top: 2rem;
-    overflow-wrap: break-word;
-    word-wrap: break-word;
-}
-
-.content ol {
+.content p, ul, ol, li {
     font-size: 0.96rem;
     // font-weight: 300;
     line-height: 1.5;
