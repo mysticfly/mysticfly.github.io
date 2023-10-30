@@ -25,11 +25,11 @@ body {
 }
 
 
-/* #access-lastmod {
+ #access-lastmod {
  li {
-    height: 1.5rem;
+    height: 3rem;
   }
-} */
+} 
 h1 {
   font-size: 1.4rem;
 }
@@ -47,22 +47,23 @@ h5 {
 }
 
 
-// h1 .card-title {
-//    font-size: 0.9rem;
-// }
+h1 .card-title {
+    font-size: 0.7rem;
+}
 
+// Убрать значкм из промпт
 blockquote.prompt-tip::before, .prompt-info::before, .prompt-warning::before, .prompt-danger::before {
     display: none;
+}
+// Выровнять текст промпт
+blockquote[class^=prompt-] {
+    padding: 1rem 1rem 1rem 1.1rem;
 }
 
 h5, h4, h3, h2, h1 {
     font-family: 'Ubuntu', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
     font-weight: 700;
     // color: #CC241D;
-}
-
-blockquote[class^=prompt-] {
-    padding: 1rem 1rem 1rem 1.1rem;
 }
 
 // .fa-github:before {
