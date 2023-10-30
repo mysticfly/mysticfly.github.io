@@ -15,17 +15,13 @@ body {
   font-family: 'Ubuntu', 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
 }
 
-.content p {
+.content  {
     font-size: 0.96rem;
     // font-weight: 300;
     line-height: 1.5;
     margin-top: 2rem;
     overflow-wrap: break-word;
     word-wrap: break-word;
-}
-
-.content li {
-    line-height: 1.5;
 }
 
 #access-lastmod {
