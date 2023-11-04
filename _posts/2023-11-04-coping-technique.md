@@ -2,12 +2,12 @@
 title: "Техника преодаления угрозы."
 author: mystica
 date: 2023-11-04 21:28:00 +0300
-categories: [Методика, Руководство]
+categories: [методика, руководство]
 tags: [психология]
+pin: false
 image:
   path: Wolf.png
   lqip: https://cdn.jsdelivr.net/gh/mysticfly/cdn/pic/lqip.webp
-pin: false
 ---
 
 Методика, которая помогает преодолеть страх и дискомфорт, вызванные внешними угрозами.
