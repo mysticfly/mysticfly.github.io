@@ -1,7 +1,7 @@
 ---
 title: "Техника преодаления угрозы."
 author: mystica
-date: {{date:YYYY-MM-DD HH:mm}} +0300
+date: 2023-11-04 21:28:00 +0300
 categories: [Методика, Руководство]
 tags: [психология]
 image:
