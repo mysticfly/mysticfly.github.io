@@ -4,7 +4,7 @@
 #   icon: "fab fa-github"
 
 - type: telegram
-  icon: 'fab fa-telegram'
+  icon: 'fa fa-telegram'
   url:  'https://t.me/mystic_fly'
 
 - type: twitter
