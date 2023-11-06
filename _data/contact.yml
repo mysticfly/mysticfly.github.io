@@ -5,6 +5,7 @@
 
 - type: telegram
   icon: 'fab fa-stack-overflow'
+  url:  'https://t.me/mystic_fly'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
